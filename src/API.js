@@ -1,4 +1,4 @@
-const baseUrl = 'manaskincare.herokuapp.com';
+const baseUrl = 'https://manaskincare.herokuapp.com/';
 
 const userUrl = baseUrl + '/users'
 const productUrl = baseUrl + '/products'
