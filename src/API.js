@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:3000';
+const baseUrl = 'manaskincare.herokuapp.com';
 
 const userUrl = baseUrl + '/users'
 const productUrl = baseUrl + '/products'
